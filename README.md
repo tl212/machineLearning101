@@ -1,4 +1,4 @@
-## ML-1 | machineLearning101 - A simple way to process Linear Regressionn
+## ML-X | machineLearning101 - A simple way to learn ML 
 
 ### Summary 
 
